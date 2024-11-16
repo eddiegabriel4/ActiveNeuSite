@@ -4,11 +4,7 @@
         "details": [
             {
                 "appID": "33PWDZH2P2.i.SocialFitnessIosApp",
-                "paths": [ "*"]
-            },
-            {
-                "appID": "33PWDZH2P2.i.SocialFitnessIosApp",
-                "paths": [ "*" ]
+                "paths": ["/.well-known/apple-app-site-configuration/*"]
             }
         ]
     }
